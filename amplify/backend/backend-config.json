@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "amazondeploy586f8df7": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
